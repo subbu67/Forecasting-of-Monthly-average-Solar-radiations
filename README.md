@@ -1,0 +1,1 @@
+# Forecasting-of-Monthly-average-Solar-radiations
